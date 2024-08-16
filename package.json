@@ -19,6 +19,7 @@
         "url": "https://github.com/vankasteelj/trakt.tv/issues"
     },
     "dependencies": {
+        "expo-crypto": "^13.0.2",
         "got": "11.8.6"
     },
     "scripts": {

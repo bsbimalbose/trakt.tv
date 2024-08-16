@@ -2,7 +2,8 @@
 
 // requirejs modules
 const got = require('got');
-const crypto = require('crypto');
+// const crypto = require('crypto');
+const crypto = require('expo-crypto');
 const methods = require('./methods.json');
 const pkg = require('./package.json');
 
